@@ -1,4 +1,3 @@
-
 # ReadMe Generator
 
 <br/>
@@ -30,6 +29,8 @@ https://github.com/jfrancis268/ReadMe-GeneratorTae
 ## Usage
 
 You'd first have to have node.js downloaded onto your computer then you'd type 'node index.js' into terminal. You'd then be prompted with questions.
+
+![question picture](utils/)
 
 <br/>
 
