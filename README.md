@@ -1,10 +1,11 @@
+
 # ReadMe Generator
 
 <br/>
 
 ## Project Description
 
-This is just a simple app that will generate a readme.md file for whatever it is you need it for!
+This is just a simple application made to help users create a read me file quickly.
 
 <br/>
 
@@ -20,7 +21,7 @@ This is just a simple app that will generate a readme.md file for whatever it is
 - [Questions](#Questions)
 
 
-## Installation
+## Deployment
 
 https://github.com/jfrancis268/ReadMe-GeneratorTae
 
@@ -28,16 +29,14 @@ https://github.com/jfrancis268/ReadMe-GeneratorTae
 
 ## Usage
 
-You'd first have to have node.js downloaded onto your computer then you'd type 'node index.js' into terminal. You'd then be prompted with questions.
-
-![question picture](utils/)
+You'd have to download node.js first then you would type 'node index.js' into your terminal where after doing that you'd be prompted with questions.
 
 <br/>
 
 ## Credits
 
 Third-party assets:
-
+None used
 
 <br/>
 
@@ -53,14 +52,14 @@ For more information, please visit: https://opensource.org/licenses/MIT
 ## Contributors
 
 Project powered by the contributions of:
-N/A
+(https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba) - for all license and badge information and (https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
 
 ## Tests
 
-N/A
+None used
 
 ## Questions
   If you have any questions, please reach out to a contributor via GitHub:
-  [Jean-Tae Francis (https://github.com/jfrancis268)](https://github.com/jfrancis268)
+  [Jean-Taé Francis](https://github.com/jfrancis268)
 
 

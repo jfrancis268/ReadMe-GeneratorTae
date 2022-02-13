@@ -70,7 +70,7 @@ ${data.description}
 - [Questions](#Questions)
 
 
-## Installation
+## Deployment
 
 ${data.walkthrough}
 
